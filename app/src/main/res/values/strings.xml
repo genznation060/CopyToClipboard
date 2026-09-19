@@ -1,1 +1,5 @@
-
+<resources>
+    <string name="app_name">QuickCopy</string>
+    <string name="share_to_clipboard_label">Copy to Clipboard</string>
+    <string name="copied_toast">Copied to clipboard!</string>
+</resources>
